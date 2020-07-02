@@ -1,0 +1,28 @@
+B:\skole\github\LottasLopper\LottasLopper\LottasLopper\obj\Debug\LottasLopper.csproj.CoreCompileInputs.cache
+C:\Users\frelu\source\repos\LottasLopper\LottasLopper\LottasLopper\bin\Debug\LottasLopper.exe.config
+C:\Users\frelu\source\repos\LottasLopper\LottasLopper\LottasLopper\bin\Debug\LottasLopper.exe
+C:\Users\frelu\source\repos\LottasLopper\LottasLopper\LottasLopper\bin\Debug\LottasLopper.pdb
+C:\Users\frelu\source\repos\LottasLopper\LottasLopper\LottasLopper\obj\Debug\LottasLopper.csprojAssemblyReference.cache
+C:\Users\frelu\source\repos\LottasLopper\LottasLopper\LottasLopper\obj\Debug\LottasLopper.csproj.CoreCompileInputs.cache
+C:\Users\frelu\source\repos\LottasLopper\LottasLopper\LottasLopper\obj\Debug\LottasLopper.exe
+C:\Users\frelu\source\repos\LottasLopper\LottasLopper\LottasLopper\obj\Debug\LottasLopper.pdb
+C:\Users\Erlend\GitHub repositories\LottasLopper\LottasLopper\LottasLopper\bin\Debug\LottasLopper.exe.config
+C:\Users\Erlend\GitHub repositories\LottasLopper\LottasLopper\LottasLopper\bin\Debug\LottasLopper.exe
+C:\Users\Erlend\GitHub repositories\LottasLopper\LottasLopper\LottasLopper\bin\Debug\LottasLopper.pdb
+C:\Users\Erlend\GitHub repositories\LottasLopper\LottasLopper\LottasLopper\obj\Debug\LottasLopper.csprojAssemblyReference.cache
+C:\Users\Erlend\GitHub repositories\LottasLopper\LottasLopper\LottasLopper\obj\Debug\LottasLopper.csproj.CoreCompileInputs.cache
+C:\Users\Erlend\GitHub repositories\LottasLopper\LottasLopper\LottasLopper\obj\Debug\LottasLopper.exe
+C:\Users\Erlend\GitHub repositories\LottasLopper\LottasLopper\LottasLopper\obj\Debug\LottasLopper.pdb
+C:\Users\Erlend\GitHub\LottasLopper\LottasLopper\LottasLopper\bin\Debug\LottasLopper.exe.config
+C:\Users\Erlend\GitHub\LottasLopper\LottasLopper\LottasLopper\bin\Debug\LottasLopper.exe
+C:\Users\Erlend\GitHub\LottasLopper\LottasLopper\LottasLopper\bin\Debug\LottasLopper.pdb
+C:\Users\Erlend\GitHub\LottasLopper\LottasLopper\LottasLopper\obj\Debug\LottasLopper.csprojAssemblyReference.cache
+C:\Users\Erlend\GitHub\LottasLopper\LottasLopper\LottasLopper\obj\Debug\LottasLopper.csproj.CoreCompileInputs.cache
+C:\Users\Erlend\GitHub\LottasLopper\LottasLopper\LottasLopper\obj\Debug\LottasLopper.exe
+C:\Users\Erlend\GitHub\LottasLopper\LottasLopper\LottasLopper\obj\Debug\LottasLopper.pdb
+B:\skole\github\LottasLopper\LottasLopper\LottasLopper\bin\Debug\LottasLopper.exe.config
+B:\skole\github\LottasLopper\LottasLopper\LottasLopper\bin\Debug\LottasLopper.exe
+B:\skole\github\LottasLopper\LottasLopper\LottasLopper\bin\Debug\LottasLopper.pdb
+B:\skole\github\LottasLopper\LottasLopper\LottasLopper\obj\Debug\LottasLopper.exe
+B:\skole\github\LottasLopper\LottasLopper\LottasLopper\obj\Debug\LottasLopper.pdb
+B:\skole\github\LottasLopper\LottasLopper\LottasLopper\obj\Debug\LottasLopper.csprojAssemblyReference.cache

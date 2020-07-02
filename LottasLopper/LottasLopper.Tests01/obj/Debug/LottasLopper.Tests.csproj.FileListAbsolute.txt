@@ -1,0 +1,35 @@
+C:\Users\Erlend\GitHub repositories\LottasLopper\LottasLopper\LottasLopper.Tests01\bin\Debug\LottasLopper.Tests.dll
+C:\Users\Erlend\GitHub repositories\LottasLopper\LottasLopper\LottasLopper.Tests01\bin\Debug\LottasLopper.Tests.pdb
+C:\Users\Erlend\GitHub repositories\LottasLopper\LottasLopper\LottasLopper.Tests01\bin\Debug\LottasLopper.exe
+C:\Users\Erlend\GitHub repositories\LottasLopper\LottasLopper\LottasLopper.Tests01\bin\Debug\Microsoft.Pex.Framework.dll
+C:\Users\Erlend\GitHub repositories\LottasLopper\LottasLopper\LottasLopper.Tests01\bin\Debug\nunit.framework.dll
+C:\Users\Erlend\GitHub repositories\LottasLopper\LottasLopper\LottasLopper.Tests01\bin\Debug\Microsoft.ExtendedReflection.Reasoning.dll
+C:\Users\Erlend\GitHub repositories\LottasLopper\LottasLopper\LottasLopper.Tests01\bin\Debug\Microsoft.ExtendedReflection.dll
+C:\Users\Erlend\GitHub repositories\LottasLopper\LottasLopper\LottasLopper.Tests01\bin\Debug\LottasLopper.pdb
+C:\Users\Erlend\GitHub repositories\LottasLopper\LottasLopper\LottasLopper.Tests01\bin\Debug\LottasLopper.exe.config
+C:\Users\Erlend\GitHub repositories\LottasLopper\LottasLopper\LottasLopper.Tests01\bin\Debug\Microsoft.Pex.Framework.xml
+C:\Users\Erlend\GitHub repositories\LottasLopper\LottasLopper\LottasLopper.Tests01\bin\Debug\nunit.framework.pdb
+C:\Users\Erlend\GitHub repositories\LottasLopper\LottasLopper\LottasLopper.Tests01\bin\Debug\nunit.framework.xml
+C:\Users\Erlend\GitHub repositories\LottasLopper\LottasLopper\LottasLopper.Tests01\obj\Debug\LottasLopper.Tests.csprojAssemblyReference.cache
+C:\Users\Erlend\GitHub repositories\LottasLopper\LottasLopper\LottasLopper.Tests01\obj\Debug\LottasLopper.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Erlend\GitHub repositories\LottasLopper\LottasLopper\LottasLopper.Tests01\obj\Debug\LottasLopper.Tests.csproj.CopyComplete
+C:\Users\Erlend\GitHub repositories\LottasLopper\LottasLopper\LottasLopper.Tests01\obj\Debug\LottasLopper.Tests.dll
+C:\Users\Erlend\GitHub repositories\LottasLopper\LottasLopper\LottasLopper.Tests01\obj\Debug\LottasLopper.Tests.pdb
+B:\skole\github\LottasLopper\LottasLopper\LottasLopper.Tests01\bin\Debug\LottasLopper.Tests.dll
+B:\skole\github\LottasLopper\LottasLopper\LottasLopper.Tests01\bin\Debug\LottasLopper.Tests.pdb
+B:\skole\github\LottasLopper\LottasLopper\LottasLopper.Tests01\bin\Debug\LottasLopper.exe
+B:\skole\github\LottasLopper\LottasLopper\LottasLopper.Tests01\bin\Debug\Microsoft.Pex.Framework.dll
+B:\skole\github\LottasLopper\LottasLopper\LottasLopper.Tests01\bin\Debug\nunit.framework.dll
+B:\skole\github\LottasLopper\LottasLopper\LottasLopper.Tests01\bin\Debug\Microsoft.ExtendedReflection.Reasoning.dll
+B:\skole\github\LottasLopper\LottasLopper\LottasLopper.Tests01\bin\Debug\Microsoft.ExtendedReflection.dll
+B:\skole\github\LottasLopper\LottasLopper\LottasLopper.Tests01\bin\Debug\LottasLopper.pdb
+B:\skole\github\LottasLopper\LottasLopper\LottasLopper.Tests01\bin\Debug\LottasLopper.exe.config
+B:\skole\github\LottasLopper\LottasLopper\LottasLopper.Tests01\bin\Debug\Microsoft.Pex.Framework.xml
+B:\skole\github\LottasLopper\LottasLopper\LottasLopper.Tests01\bin\Debug\nunit.framework.pdb
+B:\skole\github\LottasLopper\LottasLopper\LottasLopper.Tests01\bin\Debug\nunit.framework.xml
+B:\skole\github\LottasLopper\LottasLopper\LottasLopper.Tests01\obj\Debug\LottasLopper.Tests.csproj.CoreCompileInputs.cache
+B:\skole\github\LottasLopper\LottasLopper\LottasLopper.Tests01\obj\Debug\LottasLopper.Tests.dll
+B:\skole\github\LottasLopper\LottasLopper\LottasLopper.Tests01\obj\Debug\LottasLopper.Tests.pdb
+B:\skole\github\LottasLopper\LottasLopper\LottasLopper.Tests01\obj\Debug\LottasLopper.Tests.csprojAssemblyReference.cache
+B:\skole\github\LottasLopper\LottasLopper\LottasLopper.Tests01\obj\Debug\LottasLopper.Tests.csproj.CopyComplete
+B:\skole\github\LottasLopper\LottasLopper\LottasLopper.Tests01\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll

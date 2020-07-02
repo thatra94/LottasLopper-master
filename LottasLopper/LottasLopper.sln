@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LottasLopper", "LottasLopper\LottasLopper.csproj", "{68263666-62E8-48C7-846F-A577795D7067}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LottasLopper.Tests", "LottasLopper.Tests01\LottasLopper.Tests.csproj", "{8EFE626F-5473-4A64-B9C3-1B7134C77D74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68263666-62E8-48C7-846F-A577795D7067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68263666-62E8-48C7-846F-A577795D7067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68263666-62E8-48C7-846F-A577795D7067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68263666-62E8-48C7-846F-A577795D7067}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EFE626F-5473-4A64-B9C3-1B7134C77D74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EFE626F-5473-4A64-B9C3-1B7134C77D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EFE626F-5473-4A64-B9C3-1B7134C77D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EFE626F-5473-4A64-B9C3-1B7134C77D74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03F05E5B-F9E3-4EC2-9AD4-034571426A8C}
+	EndGlobalSection
+EndGlobal
